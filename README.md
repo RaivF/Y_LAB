@@ -6,5 +6,8 @@
 #
 так же у каждого дз есть описание, оно находится в read.md непосредственно в каждом репо.
 
- развёрнутые проекты на gh-pages, по мере выполнения я буду добавлять их по порядку, ниже: 
-1. "Вводное задание" - https://raivf.github.io/Introductory_Task/
+по мере выполнения я буду добавлять их по порядку, ниже: 
+1. "Вводное задание" - 
+* код: https://github.com/RaivF/Y_LAB/tree/main/Introductory_Task
+* развёрнуто: https://raivf.github.io/Introductory_Task/
+#
